@@ -1,0 +1,13 @@
+time
+joke
+add note
+view notes
+exit
+help
+time
+date
+calculator
+joke
+add note
+view notes
+exit
